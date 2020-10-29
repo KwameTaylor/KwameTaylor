@@ -31,4 +31,4 @@ Believe it or not, data CAN be used for good!
 
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=KwameTaylor&show_icons=true&count_private=true)
