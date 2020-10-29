@@ -13,6 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/kwamevtaylor" target="blank"><img src="https://img.shields.io/twitter/follow/kwamevtaylor?logo=twitter&style=for-the-badge" alt="kwamevtaylor" /></a> </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwametaylor" alt="kwametaylor" /></a> </p>
+
 -->
 
 - 🔭 I’m currently working on... Pull 🧲 requests for <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2020</a> 💻🎯
@@ -37,8 +40,6 @@ I dream to be an empowering force in the bountiful future we can 🌍all🌏 bui
 Believe it or not, data CAN be used for good!
 
 **🧬 I'm currently attending the Data Science program at <a href="https://codeup.com/ds-admissions/"><b>Codeup</b></a>. 📚🎒**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwametaylor" alt="kwametaylor" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
