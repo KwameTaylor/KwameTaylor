@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm hypermobile, which means I can contort my body in ways most people can't. Still trying to find a good use for this skill. 🤔
 -->
 
+<https://mail.google.com/a/github.com/?view=cm&fs=1&to=rosemary.arce@seagate.com>MaxKwameTaylor@gmail.com</a>
 
 ### About me :)
 Thanks for visiting my GitHub! My name is **Kwame Violet Taylor**, and I'm a 27-year-old data scientist in San Antonio via Brooklyn.
