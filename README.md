@@ -28,3 +28,7 @@ I dream to be an empowering force in the bountiful future we can 🌍all🌏 bui
 Believe it or not, data CAN be used for good!
 
 **🧬 I'm currently attending the Data Science program at <a href="https://codeup.com/ds-admissions/"><b>Codeup</b></a>. 📚🎒**
+
+<br>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
