@@ -14,7 +14,7 @@
 - 🤔 I’m looking for help with... collecting data for my Bachelorette Predictor project (i.e., watching the show over and over again)
 - 💬 Ask me about... my favorite podcasts 🤓
 <br><br>
-- 📫 How to reach me: <a href="https://mail.google.com/a/github.com/?view=cm&fs=1&to=rosemary.arce@seagate.com">MaxKwameTaylor@gmail.com</a>
+- 📫 How to reach me: via <a href="https://mail.google.com/a/github.com/?view=cm&fs=1&to=rosemary.arce@seagate.com">email</a>
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have three cats and a ball python! 🐱🐱🐱🐍
 
