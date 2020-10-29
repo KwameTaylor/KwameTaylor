@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I have three cats and a ball python! 🐱🐱🐱🐍
 
 ### About me :)
-Thanks for visiting my GitHub! My name is 💫**Kwame Violet Taylor**💫, and I'm a 27-year-old data scientist in San Antonio via Brooklyn. 🚀
+Thanks for visiting my GitHub! My name is 💫**Kwame Violet Taylor**💫, and I'm a 27-year-old **data scientist** in San Antonio via Brooklyn. 🚀
 
 I am a Capricorn♑️ to the fullest (always reaching new heights!), parkour🏃 and gymnastics🤸 enthusiast, Hip-Hop🎧 artist, disability🦽 & LGBTQ+🌈 rights advocate, computer whiz since 1994💾, and a passionate devotee to the improvement of life on earth.🌎
 
@@ -27,4 +27,4 @@ I dream to be an empowering force in the bountiful future we can 🌍all🌏 bui
 
 Believe it or not, data CAN be used for good!
 
-🧬 I'm currently attending the Data Science program at <a href="https://codeup.com/ds-admissions/"><b>Codeup</b></a>. 📚🎒
+**🧬 I'm currently attending the Data Science program at <a href="https://codeup.com/ds-admissions/"><b>Codeup</b></a>. 📚🎒**
