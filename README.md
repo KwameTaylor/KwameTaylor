@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on... any beginner-friendly projects and issues 💌 and sharing study skills 📓
 - 🤔 I’m looking for help with... collecting data for my Bachelorette Predictor project (i.e., watching the show over and over again)
 - 💬 Ask me about... my favorite podcasts 🤓
-<br>
+<br><br>
 - 📫 How to reach me: <a href="https://mail.google.com/a/github.com/?view=cm&fs=1&to=rosemary.arce@seagate.com">MaxKwameTaylor@gmail.com</a>
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have three cats and a ball python! 🐱🐱🐱🐍
