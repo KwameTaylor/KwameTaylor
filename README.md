@@ -18,10 +18,10 @@
 
 -->
 
-- 🔭 I’m currently working on... Pull 🧲 requests for <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2020</a> 💻🎯
-- 🌱 I’m currently learning 🧠... About time-series! ⏳
-- 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien
-- 📺 I'm currently watching... <i>Heroes</i> (TV show)
+- 🔭 I’m currently working on... Planning 📝 for <a href="https://itch.io/jam/game-off-2020">itch.io's Game Off 2020</a> 💻🎯
+- 🌱 I’m currently learning 🧠... About time-series! ⏳ and stock market price predictions 📈
+- 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
+- 📺 I'm currently watching... <i>Heroes</i> (TV show), and <i>The Bachelorette</i> S16
 - 👯 I’m looking to collaborate on... any beginner-friendly projects and issues 💌 and sharing study skills 📓
 - 🤔 I’m looking for help with... collecting data for my Bachelorette Predictor project (i.e., watching the show over and over again)
 - 💬 Ask me about... my favorite podcasts 🤓
