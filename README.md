@@ -1,5 +1,9 @@
-<a target="_blank" href="https://imageshack.com/i/pm5yPg6Pp"><img src="https://imagizer.imageshack.com/v2/640x480q90/922/5yPg6P.png" border="0"></a>
-<a target="_blank" href="https://imageshack.com/i/pnymoanVp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/ymoanV.png" border="0"></a>
+<describe>
+  <summary>My Business Card</summary>
+
+  <a target="_blank" href="https://imageshack.com/i/pm5yPg6Pp"><img src="https://imagizer.imageshack.com/v2/640x480q90/922/5yPg6P.png" border="0"></a>
+  <a target="_blank" href="https://imageshack.com/i/pnymoanVp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/ymoanV.png" border="0"></a>
+</describe>
 
 ## Hi there 👋🏽 My name is Kwame!
 
