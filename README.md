@@ -3,14 +3,16 @@
 <details>
   <summary><b>My Business Card</b></summary>
 
-<a target="_blank" href="https://imageshack.com/i/pm5yPg6Pp"><img src="https://imagizer.imageshack.com/v2/640x480q90/922/5yPg6P.png" border="0"></a>
-<a target="_blank" href="https://imageshack.com/i/pnymoanVp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/ymoanV.png" border="0"></a>
+<a target="_blank" href="https://imageshack.com/i/pnmUZI8Kp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/mUZI8K.png" border="0"></a>
+<a target="_blank" href="https://imageshack.com/i/pnXApprAp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/XApprA.png" border="0"></a>
 </details>
 
 <!--
 **KwameTaylor/KwameTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🧠🧑🏽‍💻🧑🏽‍🎓🧑🏽‍🦽🏃🏽‍♂️👨🏽‍💻🎒🌻🌸🌍🌎🌏✨💫⚡️🌈🧀☕️🤸🏽‍♂️🏇🏽🎧🎼🎹🎤🎨🎬♟🎯🎮🎰🧩🎸🎺🦽✈️🚀🗽🎡🎢🎠🏠🏡⛺️🌆🏙🌃🖥💻💾🔋💡🔌🧭💸💎🧰⚖️⚙️⛓🧲🔮💉🧬🦠🔑🎁🎉💌📔📓📚📖🧮📎📝💓♑️💯➿🇬🇼🇸🇳🇻🇳🇲🇲🇱🇹🇬🇼🇬🇭🏳️‍🌈
 
+<a target="_blank" href="https://imageshack.com/i/pm5yPg6Pp"><img src="https://imagizer.imageshack.com/v2/640x480q90/922/5yPg6P.png" border="0"></a>
+<a target="_blank" href="https://imageshack.com/i/pnymoanVp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/ymoanV.png" border="0"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kwametaylor&label=Profile%20views&color=0e75b6&style=flat" alt="kwametaylor" /> </p>
 
