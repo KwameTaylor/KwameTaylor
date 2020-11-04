@@ -50,7 +50,7 @@ I dream to be an empowering force in the bountiful future we can 🌍all🌏 bui
 <p align="left">
 <a href="https://twitter.com/kwamevtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kwamevtaylor" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kwame-v-taylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kwame-violet-taylor-b354891b6" height="30" width="40" /></a>
-<a href="https://medium.com/@maxkwametaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@maxkwametaylor" height="30" width="40" /></a>
+<a href="https://medium.com/kwamevtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@maxkwametaylor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
