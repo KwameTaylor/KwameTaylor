@@ -25,6 +25,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwametaylor" alt="kwametaylor" /></a> </p>
 
+- 🤔 I’m looking for help with... collecting data for my Bachelorette Predictor project
+
 -->
 
 - 🔭 I’m currently working on... Collecting data 📝 for my Bachelorette Predictor before I start the next season!
@@ -32,7 +34,6 @@
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
 - 📺 I'm currently watching... <i>Heroes</i> (TV show), and <i>The Bachelorette</i> S16
 - 👯 I’m looking to collaborate on... any beginner-friendly projects and issues 💌 and sharing study skills 📓
-- 🤔 I’m looking for help with... collecting data for my Bachelorette Predictor project
 - 💬 Ask me about... my favorite podcasts 🤓
 <br><br>
 - 📫 How to reach me: via <a href="https://mail.google.com/a/?view=cm&fs=1&to=MaxKwameTaylor@gmail.com">email</a>
