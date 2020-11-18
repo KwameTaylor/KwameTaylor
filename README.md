@@ -39,7 +39,7 @@
 - 💬 Ask me about... my favorite podcasts 🤓
 <br><br>
 - 📫 How to reach me: via <a href="https://mail.google.com/a/?view=cm&fs=1&to=MaxKwameTaylor@gmail.com">email</a>
-- 😄 Pronouns: **they/them**
+- 😄 Pronouns: **they/them**, and **she/her**
 - ⚡ Fun fact: I have three cats and a ball python! 🐱🐱🐱🐍
 
 ### About me :)
