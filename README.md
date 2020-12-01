@@ -32,7 +32,7 @@
 -->
 
 - 🔭 I’m currently working on... Collecting data 📝 for my Bachelorette Predictor before I start the next season!
-- 🌱 I’m currently learning 🧠... About time-series ⏳ and anomaly detection 🕵🏽
+- 🌱 I’m currently learning 🧠... Apache Spark ⚡ and PySpark ⚡
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
 - 📺 I'm currently watching... <i>Heroes</i> (TV show), and <i>The Bachelorette</i> S16
 - 👯 I’m looking to collaborate on... any beginner-friendly projects and issues 💌 and sharing study skills 📓
