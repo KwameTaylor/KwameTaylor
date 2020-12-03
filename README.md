@@ -31,7 +31,7 @@
 
 -->
 
-- 🔭 I’m currently working on... Collecting data 📝 for my Bachelorette Predictor before I start the next season!
+- 🔭 I’m currently working on... Working on the MVP 📝 of my Bachelorette Predictor!
 - 🌱 I’m currently learning 🧠... Apache Spark ⚡ and PySpark ⚡
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
 - 📺 I'm currently watching... <i>Heroes</i> (TV show), and <i>The Bachelorette</i> S16
