@@ -56,7 +56,7 @@ I dream to be an empowering force in the bountiful future we can 🌍all🌏 bui
 <a href="https://twitter.com/kwamevtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kwamevtaylor" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kwame-v-taylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kwame-v-taylor" height="30" width="40" /></a>
 <a href="https://medium.com/kwamevtaylor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@maxkwametaylor" height="30" width="40" /></a>
-<a href="https://dev.to/kwametaylor" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" alt="kwametaylor" height="30" width="40" /></a>
+<a href="https://dev.to/kwametaylor" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" alt="kwametaylor" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
