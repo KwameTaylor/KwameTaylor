@@ -34,7 +34,7 @@
 - 🔭 I’m currently working on... Codeup <a href="https://github.com/SpotiScryers/SpotiScry">Capstone</a> Project!
 - 🌱 I’m currently learning 🧠... More about Agile and Scrum
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
-- 📺 I'm currently watching... <i>Heroes</i> (TV show), and <i>Criminal Minds</i> S1
+- 📺 I'm currently watching... <i>Heroes</i> S1, and <i>Criminal Minds</i> S1
 - 👯 I’m looking to collaborate on... any beginner-friendly projects and issues 💌 and sharing study skills 📓
 - 💬 Ask me about... my favorite podcasts 🤓
 <br><br>
