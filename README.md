@@ -1,5 +1,7 @@
 ## Hi there 👋🏽 My name is Kwame!
 
+Check out my podcast, <a href="https://anchor.fm/the-violet-method">The Violet Method</a>: Black Grrrl Data Science! :)
+
 <details>
   <summary><b>My Business Card</b></summary>
 
