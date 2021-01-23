@@ -1,6 +1,6 @@
 ## Hi there 👋🏽 My name is Kwame!
 
-View my **Codeup Capstone** presentation, <a href="https://youtu.be/cckOM8Lg9ts"><b>SpotiScry</b></a>.
+View my **Codeup Capstone** presentation, <a href="https://youtu.be/cckOM8Lg9ts"><b>SpotiScry</b></a>, on YouTube.
 
 Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Violet Method: Black Grrrl Data Science</a>! :)
 
