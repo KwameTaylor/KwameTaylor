@@ -1,6 +1,6 @@
 ## Hi there 👋🏽 My name is Kwame!
 
-View my **Codeup Capstone** presentation, <a href="https://youtu.be/cckOM8Lg9ts"><b>SpotiScry</b></a>, on YouTube.
+View my **Codeup** <a href="https://github.com/SpotiScryers/SpotiScry"><b>Capstone</b></a> presentation, <a href="https://youtu.be/cckOM8Lg9ts"><b>SpotiScry</b></a>, on YouTube.
 
 Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Violet Method: Black Grrrl Data Science</a>! :)
 
@@ -35,7 +35,7 @@ Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Vio
 
 -->
 
-- 🔭 I’m currently working on... Codeup <a href="https://github.com/SpotiScryers/SpotiScry">Capstone</a> Project!
+- 🔭 I’m currently working on... A data-driven Animal Crossing: New Horizons guide to getting rich!
 - 🌱 I’m currently learning 🧠... Cloud Architecture ☁️
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
 - 📺 I'm currently watching... <i>Heroes</i> S1 and <i>Criminal Minds</i> S1
