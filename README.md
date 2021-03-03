@@ -30,12 +30,13 @@ Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Vio
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwametaylor" alt="kwametaylor" /></a> </p>
 
 - 🤔 I’m looking for help with... collecting data for my Bachelorette Predictor project
+- 🔭 I’m currently working on... A data-driven Animal Crossing: New Horizons guide to getting rich!
 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
 -->
 
-- 🔭 I’m currently working on... A data-driven Animal Crossing: New Horizons guide to getting rich!
+- 🔭 I’m currently working on... Time-series analysis of Dogecoin/USD and Bitcoin/USD!
 - 🌱 I’m currently learning 🧠... Cloud Architecture ☁️
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
 - 📺 I'm currently watching... <i>Heroes</i> S1 and <i>Criminal Minds</i> S1
