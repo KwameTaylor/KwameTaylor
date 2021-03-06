@@ -40,7 +40,7 @@ Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Vio
 - 🌱 I’m currently learning 🧠... JavaScript web scraping using Selenium!
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
 - 📺 I'm currently watching... <i>Heroes</i> S1 and <i>Criminal Minds</i> S1
-- 👯 I’m looking to collaborate on... any beginner-friendly projects and issues 💌 and sharing study skills 📓
+- 👯 I’m looking to collaborate on... any projects and issues 💌 and sharing educational resources 📓
 - 💬 Ask me about... my favorite podcasts 🤓
 <br><br>
 - 📫 How to reach me: via <a href="https://mail.google.com/a/?view=cm&fs=1&to=MaxKwameTaylor@gmail.com">email</a>
