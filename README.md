@@ -37,7 +37,7 @@ Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Vio
 -->
 
 - 🔭 I’m currently working on... Time-series analysis of Dogecoin/USD and Bitcoin/USD!
-- 🌱 I’m currently learning 🧠... Cloud Architecture ☁️
+- 🌱 I’m currently learning 🧠... JavaScript web scraping using Selenium!
 - 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
 - 📺 I'm currently watching... <i>Heroes</i> S1 and <i>Criminal Minds</i> S1
 - 👯 I’m looking to collaborate on... any beginner-friendly projects and issues 💌 and sharing study skills 📓
