@@ -1,4 +1,4 @@
-## Hi there 👋🏽 My name is Kwame!
+## Hi there 👋🏼 My name is Kwame!
 
 View my **Codeup** <a href="https://github.com/SpotiScryers/SpotiScry"><b>Capstone</b></a> presentation, <a href="https://youtu.be/cckOM8Lg9ts"><b>SpotiScry</b></a>, on YouTube.
 
