@@ -48,7 +48,7 @@ Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Vio
 - ⚡ Fun fact: I have three cats and a ball python! 🐱🐱🐱🐍
 
 ### About me :)
-Thanks for visiting my GitHub! My name is 💫**Kwame Violet Taylor**💫, and I'm a 28-year-old **data scientist** in San Antonio via Brooklyn. 🚀 Kansas City native.
+Thanks for visiting my GitHub! My name is 💫**Kwame Violet Taylor**💫, and I'm a 32-year-old **data scientist and technical program manager** in Los Angeles via Brooklyn. 🚀 Kansas City native.
 
 I am a Capricorn♑️ to the fullest (always reaching new heights!), parkour🏃 and gymnastics🤸 enthusiast, gamer🎮, Hip-Hop🎧 artist, disability🦽 & LGBTQ+🌈 rights advocate, computer whiz since 1993💾, and a passionate devotee to the improvement of life on earth.🌎
 
