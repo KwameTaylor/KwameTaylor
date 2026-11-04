@@ -2,8 +2,6 @@
 
 View my **Codeup** <a href="https://github.com/SpotiScryers/SpotiScry"><b>Capstone</b></a> presentation, <a href="https://youtu.be/cckOM8Lg9ts"><b>SpotiScry</b></a>, on YouTube.
 
-Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Violet Method: Black Grrrl Data Science</a>! :)
-
 <details>
   <summary><b>My Business Card</b></summary>
 
@@ -29,30 +27,18 @@ Also check out my podcast, <a href="https://anchor.fm/the-violet-method">The Vio
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kwametaylor" alt="kwametaylor" /></a> </p>
 
-- 🤔 I’m looking for help with... collecting data for my Bachelorette Predictor project
-- 🔭 I’m currently working on... A data-driven Animal Crossing: New Horizons guide to getting rich!
-
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 
 -->
 
-- 🔭 I’m currently working on... Time-series analysis of Dogecoin/USD and Bitcoin/USD!
-- 🌱 I’m currently learning 🧠... JavaScript web scraping using Selenium!
-- 📖 I'm currently reading... <i>The Fellowship of the Ring</i> by J.R.R. Tolkien, and <i>Atomic Habits</i> by James Clear
-- 📺 I'm currently watching... <i>Heroes</i> S1 and <i>Criminal Minds</i> S1
-- 👯 I’m looking to collaborate on... any projects and issues 💌 and sharing educational resources 📓
-- 💬 Ask me about... my favorite podcasts 🤓
 <br><br>
-- 📫 How to reach me: via <a href="https://mail.google.com/a/?view=cm&fs=1&to=MaxKwameTaylor@gmail.com">email</a>
-- 😄 Pronouns: **they/them**, and **she/her**
-- ⚡ Fun fact: I have three cats and a ball python! 🐱🐱🐱🐍
 
 ### About me :)
-Thanks for visiting my GitHub! My name is 💫**Kwame Violet Taylor**💫, and I'm a 32-year-old **data scientist and technical program manager** in Los Angeles via Brooklyn. 🚀 Kansas City native.
+Thanks for visiting my GitHub! My name is 💫**Kwame Violet Taylor**💫, and I'm a **data scientist and technical program manager** in Los Angeles via Brooklyn. 🚀 Kansas City native.
 
-I am a Capricorn♑️ to the fullest (always reaching new heights!), parkour🏃 and gymnastics🤸 enthusiast, gamer🎮, Hip-Hop🎧 artist, disability🦽 & LGBTQ+🌈 rights advocate, computer whiz since 1993💾, and a passionate devotee to the improvement of life on earth.🌎
+I am a Capricorn♑️ to the fullest (always reaching new heights!), parkour🏃 and gymnastics🤸 enthusiast, gamer🎮, Hip-Hop🎧 artist, disability🦽 & LGBTQ+🌈 rights advocate, computer whiz since I was a baby 💾, and a passionate devotee to the improvement of life on earth.🌎
 
-I dream to be an empowering force in the bountiful future we can 🌍all🌏 build together, through means of technology and compassion. 💓 Believe it or not, data CAN be used for good!
+I dream to be an empowering force in the bountiful future we can 🌍all🌏 build together, through means of technology and compassion. 💓 Data can and should be used for good!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
