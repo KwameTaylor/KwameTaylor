@@ -3,10 +3,12 @@
 View my **Codeup** <a href="https://github.com/SpotiScryers/SpotiScry"><b>Capstone</b></a> presentation, <a href="https://youtu.be/cckOM8Lg9ts"><b>SpotiScry</b></a>, on YouTube.
 
 <details>
+  
   <summary><b>My Business Card</b></summary>
 <a target="_blank" href="https://imageshack.com/i/pnmUZI8Kp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/mUZI8K.png" border="0"></a>
 <a target="_blank" href="https://imageshack.com/i/pnXApprAp"><img src="https://imagizer.imageshack.com/v2/640x480q90/923/XApprA.png" border="0"></a>
 </details>
+
 <!--
 **KwameTaylor/KwameTaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🧠🧑🏽‍💻🧑🏽‍🎓🧑🏽‍🦽🏃🏽‍♂️👨🏽‍💻🎒🌻🌸🌍🌎🌏✨💫⚡️🌈🧀☕️🤸🏽‍♂️🏇🏽🎧🎼🎹🎤🎨🎬♟🎯🎮🎰🧩🎸🎺🦽✈️🚀🗽🎡🎢🎠🏠🏡⛺️🌆🏙🌃🖥💻💾🔋💡🔌🧭💸💎🧰⚖️⚙️⛓🧲🔮💉🧬🦠🔑🎁🎉💌📔📓📚📖🧮📎📝💓♑️💯➿🇬🇼🇸🇳🇻🇳🇲🇲🇱🇹🇬🇼🇬🇭🏳️‍🌈
